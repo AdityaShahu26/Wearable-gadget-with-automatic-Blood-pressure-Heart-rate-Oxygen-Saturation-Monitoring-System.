@@ -1,4 +1,4 @@
-# Wearable gadget-with-automatic-blood-pressure-Heart-rate-Oxygen-Saturation-Monitoring-System.
+# Wearable gadget with automatic blood pressure, Heart rate, Oxygen Saturation Monitoring System.
 
 ●	Designed and developed a wearable gadget integrating the Max30100 sensor, MPU6050 sensor, 
 NodeMCU ESP8266 microcontroller, OLED display, and digital BP module for automatic monitoring 
